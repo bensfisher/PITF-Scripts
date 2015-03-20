@@ -8,7 +8,7 @@ num_cores = multiprocessing.cpu_count()
 
 print 'Reading in data...'
 
-filelist =  ['reduced.events.2001.txt']
+filelist =  []
 
 data = pd.DataFrame()
 
